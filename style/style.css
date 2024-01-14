@@ -64,3 +64,6 @@ h1{
 .wellcome{
     padding-bottom: 5%;
 }
+a:hover{
+    color: aliceblue;
+}
