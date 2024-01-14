@@ -11,6 +11,7 @@ Informative Content: Engaging content and a visually appealing interface for an 
 Clone the repository:
 
 git clone git@github.com:Urz1/Quiz-App.git
+
 Open the index.html file in your web browser.
 
 Explore the SignUp section to create an account and start your quiz journey.
