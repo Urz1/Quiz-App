@@ -10,7 +10,7 @@ Informative Content: Engaging content and a visually appealing interface for an 
 **Getting Started**
 Clone the repository:
 
-git clone https://github.com/your-username/islamic-quiz-app.git
+git clone git@github.com:Urz1/Quiz-App.git
 Open the index.html file in your web browser.
 
 Explore the SignUp section to create an account and start your quiz journey.
