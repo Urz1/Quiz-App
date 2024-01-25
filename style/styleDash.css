@@ -1,0 +1,70 @@
+body{
+    background-color: rgba(228, 228, 228, 0.932);
+    margin: 0; /* Reset default margin */
+    padding: 0;
+}
+main {
+    margin: 80px 20px 20px;
+  }
+tr{
+    border-bottom-width: 2px;
+    line-break: auto;
+
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid #ddd; /* Add a border to all cells */
+    padding: 8px; /* Add some padding to the cells for better readability */
+    text-align: left; /* Align text to the left within cells */
+  }
+.subject{
+    display: flex;
+}
+.subject1{
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    margin: 2% 2% 2%;
+    box-sizing: border-box;
+    padding: 2% 2% 2%;
+}
+.subject2{
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    margin: 2% 2% 2%;
+    box-sizing: border-box;
+    padding: 2% 2% 2%;
+}
+.subject3{
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    margin: 2% 2% 2%;
+    box-sizing: border-box;
+    padding: 2% 2% 2%;
+}
+.subject4{
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    margin: 2% 2% 2%;
+    box-sizing: border-box;
+    padding: 2% 2% 2%;
+}
+
+/* .iconic{
+    width: 50%;
+    height: 50%;
+} */

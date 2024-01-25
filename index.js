@@ -4,13 +4,6 @@ $(document).ready(function() {
     });
 });
 
-// $(document).ready(function() {
-//     $('#mylink').click(function() {
-//         $(".namefield").addClass("login");
-//         e.preventDefault();
-        
-//     });
-// });
 $(document).ready(function() {
     // Use a flag to check if the class has been added
     var isLoginClassAdded = false;
